@@ -108,9 +108,9 @@ curl -X GET localhost:8000/api/
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Links
-[Docker](https://hub.docker.com/repository/docker/emiliodevmtl/t3-app)  
+[Docker](https://hub.docker.com/repository/docker/emiliodevmtl/t3-app)
 [GitHub](https://github.com/emiliodevmtl/t3-app)
 
 ## Developer Info
-Email: <emiliodevmtl@gmail.com>  
+Email: <emiliodevmtl@gmail.com>
 LinkedIn: [Emilio Pena](https://www.linkedin.com/in/emilio-peña-6a543771/)
